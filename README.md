@@ -1,0 +1,1 @@
+This is tere's first Git Repository! :D
